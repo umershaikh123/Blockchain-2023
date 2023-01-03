@@ -5,8 +5,11 @@
 ## Technical Learning :
 
 * What is SmartContract , the problem it solves and its purpose, What are blocks , chain of blocks , block hash , it’s working ?
+
 * Blockchain Demo : https://andersbrownworth.com/blockchain/
+
 * public/private keys , message signature , verification of signature
+
 * EIP 1559 model , gas fees structure before EIP 1559
 
 # Day 2 (31 Dec)
@@ -38,7 +41,8 @@ Topics :
 
 * Zk rollups , optimistic Rollups , fraud proofs
 
-* Development :
+
+## Development :
 
 * Variables , structs , arrays , modifiers , mappings , nested objects , Visibility
 
@@ -48,4 +52,40 @@ Topics :
 
 * Require , revert , enums , payable , msg.sender and msg.value
 
-* Remix , abi  
+* Remix , abi , byte code
+
+# Day 3 (2 Dec)
+## Break
+
+# Day 4 (2 Dec)
+
+## Technical Learning :
+
+* Ideas for solving real world problem using chainlink
+* off chain data integration into smart contract using chainlink api call 
+
+## Development :
+
+*  ChainLink Products , data feeds , proof of reserves , api , randomness and automation
+*  how to make a Library , open source libraries
+*  Sending Eth with tranfer , send and call function
+*  Modifiers
+*  Immutable/Constants keywords , Custom Errors
+*  Recieve and Fall-back Function
+
+### local Blockchain dev :
+*  How to deploy a contract on a local blockchain with Ether.js
+*  How to send a transaction and interact with the contract
+*  need compiling using solc.js , wallet private key , abi to deploy and interact with a contract
+
+
+
+# Day 5 (3 Dec)
+
+## Technical Learning :
+
+* Filecoin Virtual Machine
+* Web Assembly introduction
+
+## Development :
+ 
