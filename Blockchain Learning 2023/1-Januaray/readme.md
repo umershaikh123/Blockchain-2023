@@ -92,7 +92,10 @@ Topics :
 
 ## Technical Learning :
 
-* Diving deep into IPFS , Filecoin , FVM
+* IPFS 
+* Filecoin
+* Filecoin Virtual Machine
+
 
  
  
