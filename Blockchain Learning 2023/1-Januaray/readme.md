@@ -84,8 +84,15 @@ Topics :
 
 ## Technical Learning :
 
-* Filecoin Virtual Machine
+* Filecoin Virtual Machine introduction
 * Web Assembly introduction
 
-## Development :
+
+# Day 6 (4 Dec)
+
+## Technical Learning :
+
+* Diving deep into IPFS , Filecoin , FVM
+
+ 
  
