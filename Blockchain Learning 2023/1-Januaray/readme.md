@@ -97,5 +97,19 @@ Topics :
 * Filecoin Virtual Machine
 
 
+# Day 7 (5 Dec)
+
+## Technical Learning :
+
+* merkle tree , cid , ipns
+* arhitecture of ipfs 
+* working of ipfs 
+* decentralization in ipfs
+* privacy ? node down , data lost ?
+* 2 picture same , cid same ?
+* how to use ipfs ?
+
+ 
+
  
  
