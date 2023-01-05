@@ -27,6 +27,12 @@
 * Learn Web3 : https://web3.career/learn-web3/all
 
 
+Technical Learning Defi channels :
+
+* Austin Grifit : https://www.youtube.com/@austingriffith3550/videos
+* Finematic :  https://www.youtube.com/@Finematics
+* Ethereum Doc : https://ethereum.org/en/developers/docs/intro-to-ethereum/
+
 ## Web3 Stack :
 * Technical Knowledge about Blockchain Architecture
 * Defi  
