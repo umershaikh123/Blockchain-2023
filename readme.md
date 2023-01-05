@@ -25,16 +25,18 @@
 * Buildspace : https://buildspace.so
 * WomenWeb3 : https://www.30daysofweb3.xyz/curriculum/1-getting-started/0-overview
 * Learn Web3 : https://web3.career/learn-web3/all
+* callyptus : 
+* Ethereum Doc : https://ethereum.org/en/developers/docs/intro-to-ethereum/
 
 
-Technical Learning Defi channels :
+## Technical Learning Defi channels :
 
 * Austin Grifit : https://www.youtube.com/@austingriffith3550/videos
 * Finematic :  https://www.youtube.com/@Finematics
-* Ethereum Doc : https://ethereum.org/en/developers/docs/intro-to-ethereum/
+
 
 ## Web3 Stack :
-* Technical Knowledge about Blockchain Architecture
+* Technical Knowledge about Blockchain Architecture , whitepaper , EVM , layer1 , layer2
 * Defi  
 * Auditing with Foundry
 * SmartContract on Hardhat
