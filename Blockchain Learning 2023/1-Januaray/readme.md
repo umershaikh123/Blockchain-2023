@@ -96,6 +96,10 @@ Topics :
 * Filecoin
 * Filecoin Virtual Machine
 
+Videos seen :
+* Web Assembly introduction : https://www.youtube.com/watch?v=3sU557ZKjUs
+* FVM introduction : https://www.youtube.com/watch?v=Vw9syGiG31c&list=PL_0VrY55uV18DBdFIkN0jdBMF8nadVxWQ
+
 
 # Day 7 (5 Dec)
 
@@ -108,6 +112,20 @@ Topics :
 * privacy ? node down , data lost ?
 * 2 picture same , cid same ?
 * how to use ipfs ?
+
+Documents read :
+
+* ipfs documentation : https://docs.ipfs.tech/install/ipfs-desktop/#windows
+* Filecoin Blogs : https://filecoin.io/blog/#posts
+
+Videos seen :
+
+* Filecoin workshop1 : https://www.youtube.com/watch?v=O5BU6zW8-sM&t=1813s 
+* Filecoin workshop2 : https://www.youtube.com/watch?v=T54YLCgl3rY
+* ipfs + Filecoin : https://www.youtube.com/watch?v=5Uj6uR3fp-U
+* merkle tree : https://www.youtube.com/watch?v=YIc6MNfv5iQ
+
+
 
  
 
