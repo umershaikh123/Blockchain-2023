@@ -54,10 +54,10 @@ Topics :
 
 * Remix , abi , byte code
 
-# Day 3 (2 Dec)
+# Day 3 (1 Jan)
 ## Break
 
-# Day 4 (2 Dec)
+# Day 4 (2 Jan)
 
 ## Technical Learning :
 
@@ -80,7 +80,7 @@ Topics :
 
 
 
-# Day 5 (3 Dec)
+# Day 5 (3 Jan)
 
 ## Technical Learning :
 
@@ -88,7 +88,7 @@ Topics :
 * Web Assembly introduction
 
 
-# Day 6 (4 Dec)
+# Day 6 (4 Jan)
 
 ## Technical Learning :
 
@@ -101,7 +101,7 @@ Videos seen :
 * FVM introduction : https://www.youtube.com/watch?v=Vw9syGiG31c&list=PL_0VrY55uV18DBdFIkN0jdBMF8nadVxWQ
 
 
-# Day 7 (5 Dec)
+# Day 7 (5 Jan)
 
 ## Technical Learning :
 
