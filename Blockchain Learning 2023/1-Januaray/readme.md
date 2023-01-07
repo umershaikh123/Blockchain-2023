@@ -125,9 +125,18 @@ Videos seen :
 * ipfs + Filecoin : https://www.youtube.com/watch?v=5Uj6uR3fp-U
 * merkle tree : https://www.youtube.com/watch?v=YIc6MNfv5iQ
 
+# Day 8 (7 Jan) break
+
+# Day 9 (7 Jan)
+
+## Technical Learning :
+* IPFS documentation : https://docs.ipfs.tech/install/ipfs-desktop/#windows
+* How the websites works : https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
+* DNS , Ip address , web hosting
+* What happens when you type a url in the browser (detail technical) ?
+* What is the order of files recieved when sending the website files from server to client ?
 
 
- 
 
  
  
