@@ -13,6 +13,7 @@
 * web3 Jobs :https://web3.career/top-web3-internships
 * Head Huter : https://blockchainheadhunter.com/jobs
 * freeflow : https://www.freeflow.dev
+* Developer Dao : https://developerdao.pallet.com/jobs
 * Turing : https://www.turing.com/jobs
 * Toptal : https://www.toptal.com/developers
 * Upwork : https://www.upwork.com
