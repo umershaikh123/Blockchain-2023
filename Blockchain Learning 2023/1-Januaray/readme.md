@@ -33,13 +33,7 @@ Topics :
 
 * Calldata , memory , storage , stack , logs , code
 
-* How to run your own node (Incomplete)
-
-* EVM (Incomplete) , Virtual Machine Archeticture
-
 * what is Fork ?, custodial/Non-custodial wallets , layer 1 , layer 2 , sharding, yield farming
-
-* Zk rollups , optimistic Rollups , fraud proofs
 
 
 ## Development :
