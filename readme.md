@@ -42,12 +42,11 @@
 * Auditing with Foundry
 * SmartContract on Hardhat
 * Front-end integration
-* Chainlink
-* Filecoin
-* Graph protocol
-* Lens Protocol
-* third web
-* Moralis
+* Protocols : Chainlink 
+* Decentrailzed storage : Filecoin , ipfs , Arweave , radicle
+* decentrailized Apis : Graph protocol
+* Social network : Lens Protocol
+* SDKS : third web , Moralis , openZepplin
 
 
 
