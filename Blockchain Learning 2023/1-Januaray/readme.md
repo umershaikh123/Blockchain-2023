@@ -136,6 +136,21 @@ Videos seen :
 * What happens when you type a url in the browser (detail technical) ?
 * What is the order of files recieved when sending the website files from server to client ?
 
+# Day 10 (8 Jan)
+
+## Technical Learning :
+
+Protoschool 
+* Content Addresseing : https://proto.school/content-addressing
+* Anatomy of a CID : https://proto.school/anatomy-of-a-cid/01
+* Merkle DAGs: Structuring Data for the Distributed Web
+* EVM : https://www.youtube.com/watch?v=GPoze5RmDVU
+* who runs EVM ? (All nodes)
+* how does EVM executes millions of transaction ? (computation is distributed among all nodes)
+* who stores the entire blockchain data ? (every node must have enought storage to support blockchain immutable data)
+
+
+
 
 
  
