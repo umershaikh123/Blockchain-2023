@@ -144,7 +144,12 @@ Protoschool
 * who stores the entire blockchain data ? (every node must have enought storage to support blockchain immutable data)
 
 
+# Day 11 (9 Jan)
 
+## Technical Learning :
+* overview of Filecoin network , filecoin blockchain , proof of space-time , Fvm
+* Filecoin interaction softwares like Lotus
+* Breif overview of opcodes , gas optimication : https://www.youtube.com/watch?v=sbc74oU94FM
 
 
  
