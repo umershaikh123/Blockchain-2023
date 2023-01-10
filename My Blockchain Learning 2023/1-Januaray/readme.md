@@ -152,5 +152,10 @@ Protoschool
 * Breif overview of opcodes , gas optimication : https://www.youtube.com/watch?v=sbc74oU94FM
 
 
- 
+ # Day 12 (10 Jan)
+
+## Technical Learning :
+* Eth-India talk Startups by juan bennet : https://www.youtube.com/watch?v=zJlnD4f8j98
+* Looking at FEVM projects at Eth-Global : https://ethglobal.com/showcase?events=hackfevm
+* Eth-global Workshops at hackFEVM :  https://ethglobal.com/talks?events=hackfevm
  
