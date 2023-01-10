@@ -4,6 +4,7 @@
 
 ## Hackathons Links :
 * Eth global : https://ethglobal.com/events/spacewarp
+* Hackathons projects : https://ethglobal.com/showcase
 * Devpost : https://devpost.com/hackathons
 * Filecoin hackathons : https://hackathons.filecoin.io
 * speedRunEthereum : https://speedrunethereum.com
@@ -26,8 +27,8 @@
 * Buildspace : https://buildspace.so
 * WomenWeb3 : https://www.30daysofweb3.xyz/curriculum/1-getting-started/0-overview
 * Learn Web3 : https://web3.career/learn-web3/all
-* callyptus : 
 * Ethereum Doc : https://ethereum.org/en/developers/docs/intro-to-ethereum/
+* callyptus : 
 
 
 ## Technical Learning Defi channels :
@@ -37,7 +38,7 @@
 
 
 ## Web3 Stack :
-* Technical Knowledge about Blockchain Architecture , whitepaper , EVM , layer1 , layer2
+* Technical Knowledge about Blockchain Architecture , whitepapers , EVM , layer1 , layer2
 * Defi  
 * Auditing with Foundry
 * SmartContract on Hardhat
