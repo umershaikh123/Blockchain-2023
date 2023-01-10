@@ -4,12 +4,6 @@
 
 # My coding Journey 2023
 
-## Learning
+Share your amazing coding journey 
 
-## Hackathons participated in :
-
-will start from 21 jan 2023: https://spacewarp.fvm.dev
-
-## Acheivements :
-
-## Projects :
+## Use Any format you want
