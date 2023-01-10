@@ -1,8 +1,11 @@
+<!-- @format -->
+
 # Blockchain-2023
 
 ### What can you contribute to
 
 - [Blockchain Resources ](https://github.com/umershaikh123/Hacktoberfest/discussions)
+- [Your Blockchain Learning/Journey/projects ](https://github.com/umershaikh123/Hacktoberfest/discussions) : Share your Daily learning/progress of your blockchain journey
 
 ### How to contribute
 
