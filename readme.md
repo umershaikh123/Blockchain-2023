@@ -23,13 +23,14 @@
 ## Blockchain Courses :
 * Patrick collins : https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=36380s
 * metaSchool : https://metaschool.so/courses
-* protoschool Filecoin : https://proto.school/tutorials
 * Buildspace : https://buildspace.so
 * WomenWeb3 : https://www.30daysofweb3.xyz/curriculum/1-getting-started/0-overview
 * Learn Web3 : https://web3.career/learn-web3/all
-* Ethereum Doc : https://ethereum.org/en/developers/docs/intro-to-ethereum/
-* callyptus : 
+* callyptus 
 
+Docs :
+* Ethereum Doc : https://ethereum.org/en/developers/docs/intro-to-ethereum/
+* protoschool Filecoin (IPFS , Filecoin ) : https://proto.school/tutorials
 
 ## Technical Learning Defi channels :
 
