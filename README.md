@@ -1,6 +1,6 @@
  
 ## Note
-Blockchain Repo has been moved to : https://github.com/umershaikh123/Coding-Resources
+Blockchain Resouce Repo has been moved to : https://github.com/umershaikh123/Coding-Resources
 
 <br>
  
