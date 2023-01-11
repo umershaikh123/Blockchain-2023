@@ -1,15 +1,24 @@
-<!-- @format -->
+ 
+## Note
+Blockchain Repo has been moved to : https://github.com/umershaikh123/Coding-Resources
 
-!-- @format -->
+<br>
+ 
 
-# My Blockchain Journey 2023
+### My Blockchain Journey 2023
 
-## Learning
 
-## Hackathons participated in :
+
+### Hackathons participated in :
 
 will start from 21 jan 2023: https://spacewarp.fvm.dev
 
-## Acheivements :
 
-## Projects :
+### Learning
+
+
+ 
+### Acheivements :
+
+
+### Projects :
