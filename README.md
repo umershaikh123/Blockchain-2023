@@ -1,22 +1,15 @@
 <!-- @format -->
 
-# Coding-2023
+!-- @format -->
 
-### What can you contribute to
+# My Blockchain Journey 2023
 
-- [Your Coding Learning/Journey/projects  ]( https://github.com/umershaikh123/Coding-2023/tree/master/Coding%20Journey%202023)
-- [Blockchain Resources ](https://github.com/umershaikh123/Hacktoberfest/discussions)
-- [Artificial Intelligence Resources](https://github.com/umershaikh123/Coding-2023/tree/master/Artificial%20Intelligence) 
-- [Mobile Development Resources](https://github.com/umershaikh123/Coding-2023/tree/master/Mobile%20app%20Devlepment )
-- [Web Development Resources](https://github.com/umershaikh123/Coding-2023/tree/master/Web%20Development)
+## Learning
 
-### How to contribute
+## Hackathons participated in :
 
-- Fork The repo
-- Commit the changes in that forked repository.
-- Come to the main branch of this repository.
-- make the Pull Request .
-- Or make merge changes to the existing projects
+will start from 21 jan 2023: https://spacewarp.fvm.dev
 
-### Discussions
-- Discuss/Ask anything in [Discussions](https://github.com/umershaikh123/Coding-2023/discussions) section
+## Acheivements :
+
+## Projects :
