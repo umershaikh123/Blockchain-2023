@@ -159,8 +159,14 @@ Protoschool
 * Looking at FEVM projects at Eth-Global : https://ethglobal.com/showcase?events=hackfevm
 * Eth-global Workshops at hackFEVM :  https://ethglobal.com/talks?events=hackfevm
  
- # Day 12 (10 Jan)
+ # Day 13 (11 Jan)
 
 ## Technical Learning :
-Austin Griffit EVM Fundamentals : https://www.youtube.com/watch?v=4hl61AmEGwU
-Chainlink article about decentralized storage
+* Austin Griffit EVM Fundamentals : https://www.youtube.com/watch?v=4hl61AmEGwU
+* Chainlink article about decentralized storage
+
+
+ # Day 14 (12 Jan)
+
+## Technical Learning :
+* Web3 Game Hackathon : https://readyplayer3.devpost.com/?ref_feature=challenge&ref_medium=discover
