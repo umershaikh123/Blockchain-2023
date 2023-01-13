@@ -160,3 +160,8 @@ Protoschool
 * Web3 Game Hackathon : https://readyplayer3.devpost.com/?ref_feature=challenge&ref_medium=discover
 * Awesome Code Visualizer https://pythontutor.com
 
+
+# Day 15 (13 Jan)
+
+## Technical Learning :
+* Looking at Third Web gamingkit : https://portal.thirdweb.com/gamingkit/quickstart
