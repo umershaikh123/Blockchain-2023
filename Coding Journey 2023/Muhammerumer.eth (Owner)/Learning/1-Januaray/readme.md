@@ -165,3 +165,4 @@ Protoschool
 
 ## Technical Learning :
 * Looking at Third Web gamingkit : https://portal.thirdweb.com/gamingkit/quickstart
+* SmartContract Kit : https://portal.thirdweb.com/contractkit
