@@ -166,3 +166,12 @@ Protoschool
 ## Technical Learning :
 * Looking at Third Web gamingkit : https://portal.thirdweb.com/gamingkit/quickstart
 * SmartContract Kit : https://portal.thirdweb.com/contractkit
+
+# Day 16 (14 Jan) Break
+
+# Day 17 (15 Jan)
+
+## Technical Learning :
+* ThirdWeb Hackathon Idea 
+* FVM resources : https://fvm-forum.filecoin.io/t/hack-fevm-specific-resources/101
+* FEVM starterkit
