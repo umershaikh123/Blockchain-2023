@@ -175,3 +175,11 @@ Protoschool
 * ThirdWeb Hackathon Idea 
 * FVM resources : https://fvm-forum.filecoin.io/t/hack-fevm-specific-resources/101
 * FEVM starterkit
+
+
+# Day 17 (16 Jan)
+## Technical Learning :
+* Filecoin main concepts : https://www.youtube.com/watch?v=Sz2OQc2WOdA
+* made FVM resource repo
+* Ipfs integrations : https://www.youtube.com/watch?v=Q0oe6i7d1u4&t=1784s
+* Intro to power Gate : https://www.youtube.com/watch?v=aiOTSkz_6aY
