@@ -186,4 +186,7 @@ Protoschool
 
 # Day 18 (17 Jan)
 ## Technical Learning :
-building on Filecoin : https://www.youtube.com/watch?v=aGCpq0Xf-w8
+* building on Filecoin : https://www.youtube.com/watch?v=aGCpq0Xf-w8
+* looked at Estuary Docs : https://docs.estuary.tech
+* looket at power gate docs : https://docs.textile.io/powergate/
+* 2020 pinning submit playlist : https://www.youtube.com/playlist?list=PLuhRWgmPaHtTvsxuZ9T-tMlu_v0lja6v5
