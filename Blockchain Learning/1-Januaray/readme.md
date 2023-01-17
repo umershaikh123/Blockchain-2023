@@ -183,3 +183,7 @@ Protoschool
 * made FVM resource repo
 * Ipfs integrations : https://www.youtube.com/watch?v=Q0oe6i7d1u4&t=1784s
 * Intro to power Gate : https://www.youtube.com/watch?v=aiOTSkz_6aY
+
+# Day 18 (17 Jan)
+## Technical Learning :
+building on Filecoin : https://www.youtube.com/watch?v=aGCpq0Xf-w8
