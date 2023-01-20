@@ -192,3 +192,13 @@ Protoschool
 * 2020 pinning submit playlist : https://www.youtube.com/playlist?list=PLuhRWgmPaHtTvsxuZ9T-tMlu_v0lja6v5
 * intro to node.js : https://www.youtube.com/watch?v=ENrzD9HAZK4&t=308s
 * Rest apis : https://www.youtube.com/watch?v=-MTSQjw5DrM&t=165s
+
+
+# Day 19 to Day 25 (18 Jan to Feb 6)
+
+Building Hackathon project
+
+## Learning :
+* Thinking about logic , architecture of the project .
+
+
