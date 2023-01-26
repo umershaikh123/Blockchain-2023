@@ -200,5 +200,9 @@ Building Hackathon project
 
 ## Learning :
 * Thinking about logic , architecture of the project .
+* Making UI/Ux Design of the project
+* Lending page
+* Ux research
+
 
 
