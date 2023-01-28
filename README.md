@@ -10,10 +10,8 @@ Blockchain Resouce Repo has been moved to : https://github.com/umershaikh123/Cod
 
 ### Hackathons participated in :
 
-- (upcoming) ETH-global FVM : https://spacewarp.fvm.dev
-- (upcoming) Third Web Gaming hackathon
-
-### Learning
+- ETH-global FVM : https://spacewarp.fvm.dev
+- Third Web Gaming hackathon
 
 ### Acheivements :
 
