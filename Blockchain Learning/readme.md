@@ -211,3 +211,5 @@ Eth-Global , Building FVM Hackathon project
 - Ux research
 - Loan Borrower Page
 - Front-end code
+- Lending Page Completed
+- Learning Next.js Features
