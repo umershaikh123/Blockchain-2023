@@ -213,3 +213,7 @@ Eth-Global , Building FVM Hackathon project
 - Front-end code
 - Lending Page Completed
 - Learning Next.js Features
+- server side rendering
+- express server
+- Completed the project 
+
