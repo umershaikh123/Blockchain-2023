@@ -197,7 +197,7 @@ Protoschool
 - intro to node.js : https://www.youtube.com/watch?v=ENrzD9HAZK4&t=308s
 - Rest apis : https://www.youtube.com/watch?v=-MTSQjw5DrM&t=165s
 
-# 18 Jan to Feb 6
+# 18 Jan to Feb 8
 
 Eth-Global , Building FVM Hackathon project
 
@@ -217,3 +217,11 @@ Eth-Global , Building FVM Hackathon project
 - express server
 - Completed the project 
 
+
+
+# 10 Feb
+
+## Learning :
+- Unity introduction
+- third web unity sdk
+- Third web Hackathon project work
