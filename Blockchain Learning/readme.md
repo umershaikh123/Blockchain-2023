@@ -226,3 +226,9 @@ Eth-Global , Building FVM Hackathon project
 - third web unity sdk
 - unity in 100 sec : https://www.youtube.com/watch?v=iqlH4okiQqg&t=5s
 - Third web Hackathon project work
+
+# 10 Feb
+
+## Learning :
+- Polishing CV
+
