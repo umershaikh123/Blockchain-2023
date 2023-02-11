@@ -232,3 +232,6 @@ Eth-Global , Building FVM Hackathon project
 ## Learning :
 - Polishing CV
 - Learning unity basics
+- Unity Architecture
+- Scripting 
+- Logic
