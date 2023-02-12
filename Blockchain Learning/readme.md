@@ -238,5 +238,8 @@ Eth-Global , Building FVM Hackathon project
 
 # 12 Feb
 - wrote a medium article about IPFS [Click here to see](https://medium.com/@umershaikh217/a-guide-to-understanding-ipfs-20b7cbd6e327)
-- Next.js 13 Features
-- Exploring Third web sdk 
+- Next.js 13 Features : https://www.youtube.com/watch?v=_w0Ikk4JY7U
+- Basics of Next.js 13 : https://www.youtube.com/watch?v=__mSgDEOyv8
+- Exploring Third web sdk : https://portal.thirdweb.com/sdk
+- learning about Vite : https://www.youtube.com/watch?v=KCrXgy8qtjM
+- Testing in javascript using jest
