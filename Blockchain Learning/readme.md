@@ -227,7 +227,7 @@ Eth-Global , Building FVM Hackathon project
 - unity in 100 sec : https://www.youtube.com/watch?v=iqlH4okiQqg&t=5s
 - Third web Hackathon project work
 
-# 10 Feb
+# 11 Feb
 
 ## Learning :
 - Polishing CV
@@ -235,3 +235,6 @@ Eth-Global , Building FVM Hackathon project
 - Unity Architecture
 - Scripting 
 - Logic
+
+# 12 Feb
+- wrote a medium article about IPFS [Click here to see](https://medium.com/@umershaikh217/a-guide-to-understanding-ipfs-20b7cbd6e327)
