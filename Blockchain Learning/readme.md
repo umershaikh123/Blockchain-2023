@@ -238,3 +238,5 @@ Eth-Global , Building FVM Hackathon project
 
 # 12 Feb
 - wrote a medium article about IPFS [Click here to see](https://medium.com/@umershaikh217/a-guide-to-understanding-ipfs-20b7cbd6e327)
+- Next.js 13 Features
+- Exploring Third web sdk 
