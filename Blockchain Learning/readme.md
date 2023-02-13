@@ -242,4 +242,10 @@ Eth-Global , Building FVM Hackathon project
 - Basics of Next.js 13 : https://www.youtube.com/watch?v=__mSgDEOyv8
 - Exploring Third web sdk : https://portal.thirdweb.com/sdk
 - learning about Vite : https://www.youtube.com/watch?v=KCrXgy8qtjM
-- Testing in javascript using jest
+- Learning Testing in javascript using jest
+
+# 13 Feb
+
+- Learned Next 13 features
+- Read React docs
+- learned more about css 
