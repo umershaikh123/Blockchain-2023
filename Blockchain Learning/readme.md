@@ -249,3 +249,11 @@ Eth-Global , Building FVM Hackathon project
 - Learned Next 13 features
 - Read React docs
 - learned more about css 
+
+# 14 Feb
+
+- looking at backend technologies
+- next.js edgeware , middleware
+- joining cyberconnect hackathon
+- looking at cyberconnect docs
+
