@@ -257,3 +257,8 @@ Eth-Global , Building FVM Hackathon project
 - joining cyberconnect hackathon
 - looking at cyberconnect docs
 
+
+# 15 Feb
+- Learning GraphQL 
+- looking into Ghosts of Epochs Past project
+- figuring out Cyberconnect profile logic
