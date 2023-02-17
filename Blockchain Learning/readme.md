@@ -259,6 +259,13 @@ Eth-Global , Building FVM Hackathon project
 
 
 # 15 Feb
+- Participating in 2023 connected hackathon
 - Learning GraphQL 
 - looking into Ghosts of Epochs Past project
 - figuring out Cyberconnect profile logic
+
+
+# 17 Feb
+- Working on the project logic
+- polishing front-end code
+
