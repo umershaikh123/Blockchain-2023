@@ -269,3 +269,11 @@ Eth-Global , Building FVM Hackathon project
 - Working on the project logic
 - polishing front-end code
 
+# 18 Feb
+- Project meeting
+- Brainstorming ideas
+
+# 19 Feb
+- Looking into multiple Css Frameworks and Libraries
+- polishing front-end code
+
