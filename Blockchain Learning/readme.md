@@ -280,3 +280,4 @@ Eth-Global , Building FVM Hackathon project
 # 20 Feb
 - Wrapped tokens : https://www.youtube.com/watch?v=DuwQ6NuPQp4
 - Rollups : https://www.youtube.com/watch?v=7pWxCklcNsU&t=3s
+- made project figma designs
