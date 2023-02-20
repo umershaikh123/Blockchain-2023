@@ -277,3 +277,6 @@ Eth-Global , Building FVM Hackathon project
 - Looking into multiple Css Frameworks and Libraries
 - polishing front-end code
 
+# 20 Feb
+- Wrapped tokens : https://www.youtube.com/watch?v=DuwQ6NuPQp4
+- Rollups : https://www.youtube.com/watch?v=7pWxCklcNsU&t=3s
