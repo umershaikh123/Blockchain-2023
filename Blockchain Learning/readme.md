@@ -281,3 +281,9 @@ Eth-Global , Building FVM Hackathon project
 - Wrapped tokens : https://www.youtube.com/watch?v=DuwQ6NuPQp4
 - Rollups : https://www.youtube.com/watch?v=7pWxCklcNsU&t=3s
 - made project figma designs
+
+# 21 Feb
+- computer bus architecture
+- point to point interconnection
+- bus interconnection
+- Responsive Navbar changes
