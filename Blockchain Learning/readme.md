@@ -288,8 +288,10 @@ Eth-Global , Building FVM Hackathon project
 - bus interconnection
 - Responsive Navbar changes
 
-# 22 - 28 Feb
+# 22 Fev - 9 March
 - working on Hackathon project  
 - Making front end , Figma designs , Implementing Notifi protocol
+- Implementing Cyber connect social features
+
 
  
