@@ -293,7 +293,11 @@ Eth-Global , Building FVM Hackathon project
 - Making front end , Figma designs , Implementing Notifi protocol
 - Implementing Cyber connect social features
 
-# 18 March
+# 18 - 22 March
 - working on estuary new design
+- implementing design
+- writing front end code
+- new theme
+
 
  
