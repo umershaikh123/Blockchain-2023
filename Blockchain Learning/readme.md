@@ -298,6 +298,7 @@ Eth-Global , Building FVM Hackathon project
 - implementing design
 - writing front end code
 - new theme
-
+- Finishing the code 
+- PR sent
 
  
