@@ -300,5 +300,6 @@ Eth-Global , Building FVM Hackathon project
 - new theme
 - Finishing the code 
 - PR sent
+- looking into Google summer of code
 
  
