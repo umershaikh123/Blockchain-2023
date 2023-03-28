@@ -302,4 +302,9 @@ Eth-Global , Building FVM Hackathon project
 - PR sent
 - looking into Google summer of code
 
+# 22 - 30 March
+- making Gsoc codelabz designs
+- operational research using Anova
+- ER Diagrams
+
  
