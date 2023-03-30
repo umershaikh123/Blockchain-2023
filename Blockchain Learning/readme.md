@@ -306,5 +306,9 @@ Eth-Global , Building FVM Hackathon project
 - making Gsoc codelabz designs
 - operational research using Anova
 - ER Diagrams
+- Database Design
+- computer architecture
+- Context free grammer
+- automata
 
  
