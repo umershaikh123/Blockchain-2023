@@ -311,4 +311,8 @@ Eth-Global , Building FVM Hackathon project
 - Context free grammer
 - automata
 
+# 1 to 7 April
+- inference engine
+- Introduction to Artificial Intelligence
+
  
