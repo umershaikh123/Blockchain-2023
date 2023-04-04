@@ -314,5 +314,8 @@ Eth-Global , Building FVM Hackathon project
 # 1 to 7 April
 - inference engine
 - Introduction to Artificial Intelligence
-
+- Finite Automata
+- Transition graphs
+- Deterministic Finite Automata / Non-Deterministic Finite automata
+- Klean's theorem of union , concatenation and closure (DFA)
  
