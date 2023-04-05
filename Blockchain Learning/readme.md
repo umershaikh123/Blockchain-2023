@@ -318,4 +318,6 @@ Eth-Global , Building FVM Hackathon project
 - Transition graphs
 - Deterministic Finite Automata / Non-Deterministic Finite automata
 - Klean's theorem of union , concatenation and closure (DFA)
+- Making basic programming language (playlist) : https://www.youtube.com/watch?v=5CS0CNVsn4I&list=PLSq9OFrD2Q3DasoOa54Vm9Mr8CATyTbLF
+- learning context free grammer , parsing
  
