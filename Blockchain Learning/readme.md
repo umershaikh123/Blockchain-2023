@@ -288,7 +288,7 @@ Eth-Global , Building FVM Hackathon project
 - bus interconnection
 - Responsive Navbar changes
 
-# 22 Fev - 9 March
+# 22 Feb - 9 March
 - working on Hackathon project  
 - Making front end , Figma designs , Implementing Notifi protocol
 - Implementing Cyber connect social features
@@ -320,4 +320,14 @@ Eth-Global , Building FVM Hackathon project
 - Klean's theorem of union , concatenation and closure (DFA)
 - Making basic programming language (playlist) : https://www.youtube.com/watch?v=5CS0CNVsn4I&list=PLSq9OFrD2Q3DasoOa54Vm9Mr8CATyTbLF
 - learning context free grammer , parsing
+
+# 7 to 15 April
+- Networking
+- cisco packet tracer
+- hackathon idea brainstorm
+- Physical layer of the OSI model
+
+
+# 16 to 30 April
+
  
