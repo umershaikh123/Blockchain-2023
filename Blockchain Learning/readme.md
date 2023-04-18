@@ -329,5 +329,10 @@ Eth-Global , Building FVM Hackathon project
 
 
 # 16 to 30 April
+- https://blog.chain.link/homomorphic-encryption/
+- https://blog.chain.link/nftfi/
+- Networking 
+- SQL
+- MYSQL : https://www.youtube.com/watch?v=HXV3zeQKqGY&t=2s
 
  
