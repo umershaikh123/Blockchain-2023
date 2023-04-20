@@ -335,7 +335,8 @@ Eth-Global , Building FVM Hackathon project
 - SQL
 - MYSQL : https://www.youtube.com/watch?v=HXV3zeQKqGY&t=2s
 - Relational databases , advantages , structure , data access , data storage 
-- Advance SQL queries
+- Advance SQL queries : Nested queries , correlated quries
 - Converting ER Diagrams into SQL tables
+
 
  
