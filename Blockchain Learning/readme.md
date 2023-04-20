@@ -334,5 +334,8 @@ Eth-Global , Building FVM Hackathon project
 - Networking 
 - SQL
 - MYSQL : https://www.youtube.com/watch?v=HXV3zeQKqGY&t=2s
+- Relational databases , advantages , structure , data access , data storage 
+- Advance SQL queries
+- Converting ER Diagrams into SQL tables
 
  
