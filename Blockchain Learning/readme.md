@@ -338,5 +338,8 @@ Eth-Global , Building FVM Hackathon project
 - Advance SQL queries : Nested queries , correlated quries
 - Converting ER Diagrams into SQL tables
 
-
+# 1 may
+- chainlink hackathon team session
+- team meeting
+- Idea Ideation
  
