@@ -338,8 +338,11 @@ Eth-Global , Building FVM Hackathon project
 - Advance SQL queries : Nested queries , correlated quries
 - Converting ER Diagrams into SQL tables
 
-# 1 may
+# 1 may to 20 may
 - chainlink hackathon team session
 - team meeting
 - Idea Ideation
+- Tower of hanoi problem
+- N chess queens problem
+- Introduction to Artificial Intelligence , agents , rational agents
  
