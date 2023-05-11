@@ -345,4 +345,5 @@ Eth-Global , Building FVM Hackathon project
 - Tower of hanoi problem
 - N chess queens problem
 - Introduction to Artificial Intelligence , agents , rational agents
+- Operational Reseach : Linear programming , Queuing and simulational modeling
  
