@@ -346,4 +346,5 @@ Eth-Global , Building FVM Hackathon project
 - N chess queens problem
 - Introduction to Artificial Intelligence , agents , rational agents
 - Operational Reseach : Linear programming , Queuing and simulational modeling
+- CFG implementation , parser , abstract syntax tree 
  
