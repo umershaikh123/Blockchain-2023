@@ -347,4 +347,7 @@ Eth-Global , Building FVM Hackathon project
 - Introduction to Artificial Intelligence , agents , rational agents
 - Operational Reseach : Linear programming , Queuing and simulational modeling
 - CFG implementation , parser , abstract syntax tree 
+- Introduction to Game theory : https://www.youtube.com/watch?v=lpKY85HCXmA&list=PLgA4wLGrqI-ll9OSJmR5nU4lV4_aNTgKx&index=56
+- Decision therody : https://www.youtube.com/watch?v=jByMfFG0Ak4&list=PLgA4wLGrqI-ll9OSJmR5nU4lV4_aNTgKx&index=55
+- Quantum Computers : https://www.youtube.com/watch?v=-UrdExQW0cs
  
