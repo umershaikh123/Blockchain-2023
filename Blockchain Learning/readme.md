@@ -351,3 +351,7 @@ Eth-Global , Building FVM Hackathon project
 - Decision therody : https://www.youtube.com/watch?v=jByMfFG0Ak4&list=PLgA4wLGrqI-ll9OSJmR5nU4lV4_aNTgKx&index=55
 - Quantum Computers : https://www.youtube.com/watch?v=-UrdExQW0cs
  
+ # 26 may to 9 june
+ - Exams
+ 
+ 
