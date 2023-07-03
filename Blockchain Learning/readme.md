@@ -353,5 +353,13 @@ Eth-Global , Building FVM Hackathon project
  
  # 26 may to 9 june
  - Exams
+
+ # 9 june to 30 june
+ - Portfolio website design and implementation from scratch
+ - -break
+
+ # 1 July to 30 July
+ - Langchain
+ - Prompt engineering
  
  
